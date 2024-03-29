@@ -8,11 +8,6 @@
 - Whereas wonders at the World and Continent level are completely natural, wonders at the Country level may include the intersection between the natural and cultural.  
 
 
-## Reference link
-
-Insert gif or link to demo
-
-
 ## Features
 
 - This project theme is created from scratch
